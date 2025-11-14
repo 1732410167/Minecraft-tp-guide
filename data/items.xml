@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+    <item id="item1">
+        <title>主城</title>
+        <image>/tptool/assets/images/1.png</image>
+        <tags>地标,主世界</tags>
+        <buttons>
+            <button label="主城">/warp tp 1</button>
+        </buttons>
+    </item>
+    
+    <item id="item2">
+        <title>烈焰人刷怪塔</title>
+        <image>/tptool/assets/images/BlazeFarm.png</image>
+        <tags>地狱,刷怪塔</tags>
+        <buttons>
+            <button label="烈焰人刷怪塔">/warp tp BlazeFarm&#13;</button>
+            <button label="挂机点">/warp tp BlazeFarm-AFK</button>
+        </buttons>
+    </item>
+    
+    <item id="6917449733c4b">
+        <title>火药塔（旧）</title>
+        <image>/tptool/assets/images/CreeperTower.png</image>
+        <tags>刷怪塔,主世界</tags>
+        <buttons>
+            <button label="火药塔（旧）">/warp tp CreeperTower</button>
+            <button label="挂机点">/warp tp CreeperTower-AFK</button>
+        </buttons>
+    </item>
+    
+    <item id="6917527dac0e1">
+        <title>沙漠空置域</title>
+        <image>/tptool/assets/images/Desert.png</image>
+        <tags>主世界,空置域</tags>
+        <buttons>
+            <button label="沙漠空置域">/warp tp Desert</button>
+        </buttons>
+    </item>
+    
+    <item id="69175327ec3e0">
+        <title>老开发区</title>
+        <image>/tptool/assets/images/DevelopmentZone.png</image>
+        <tags>主世界</tags>
+        <buttons>
+            <button label="老开发区">/warp tp DevelopmentZone</button>
+        </buttons>
+    </item>
+    
+    <item id="691754197fffe">
+        <title>新开发区</title>
+        <image>/tptool/assets/images/DevelopmentZone-New.png</image>
+        <tags>主世界</tags>
+        <buttons>
+            <button label="新开发区">/warp tp DevelopmentZone-New</button>
+        </buttons>
+    </item>
+    
+    <item id="6917548bbaf46">
+        <title>溺尸刷怪塔</title>
+        <image>/tptool/assets/images/DrownedTower.png</image>
+        <tags>主世界,刷怪塔</tags>
+        <buttons>
+            <button label="溺尸刷怪塔">/warp tp DrownedTower</button>
+        </buttons>
+    </item>
+    
+    <item id="691754ebf368c">
+        <title>出生点空置域</title>
+        <image>/tptool/assets/images/EmptyArea.png</image>
+        <tags>主世界,空置域</tags>
+        <buttons>
+            <button label="出生点空置域">/warp tp EmptyArea</button>
+        </buttons>
+    </item>
+    
+    <item id="691755ac588f2">
+        <title>小黑塔</title>
+        <image>/tptool/assets/images/EndermanTower.png</image>
+        <tags>末地,刷怪塔</tags>
+        <buttons>
+            <button label="小黑塔">/warp tp EndermanTower</button>
+        </buttons>
+    </item>
+    
+    <item id="69175635031bd">
+        <title>末地伪和平</title>
+        <image>/tptool/assets/images/EndFakePeaceful.png</image>
+        <tags>末地,伪和平</tags>
+        <buttons>
+            <button label="末地伪和平">/warp tp EndFakePeaceful</button>
+        </buttons>
+    </item>
+    
+    <item id="6917568c8790c">
+        <title>末地门</title>
+        <image>/tptool/assets/images/EndPortal.png</image>
+        <tags>主世界,传送门</tags>
+        <buttons>
+            <button label="末地门">/warp tp EndPortal</button>
+        </buttons>
+    </item>
+    
+    <item id="691756e0500b7">
+        <title>主世界伪和平</title>
+        <image>/tptool/assets/images/FakePeaceful.png</image>
+        <tags>主世界,伪和平</tags>
+        <buttons>
+            <button label="主世界伪和平">/warp tp FakePeaceful</button>
+        </buttons>
+    </item>
+    
+    <item id="69175760d7405">
+        <title>蛙鸣灯农场</title>
+        <image>/tptool/assets/images/FroglightFarm.png</image>
+        <tags>地狱,刷怪塔</tags>
+        <buttons>
+            <button label="蛙鸣灯农场">/warp tp FroglightFarm</button>
+            <button label="挂机点">/warp tp FroglightFarm-AFK</button>
+        </buttons>
+    </item>
+    
+    <item id="691757fcb9f8c">
+        <title>恶魂刷怪塔</title>
+        <image>/tptool/assets/images/GhastTower.png</image>
+        <tags>地狱,刷怪塔</tags>
+        <buttons>
+            <button label="恶魂刷怪塔">/warp tp GhastTower</button>
+        </buttons>
+    </item>
+    
+    <item id="69175873d7f74">
+        <title>鱼塔</title>
+        <image>/tptool/assets/images/GuardianFarm.png</image>
+        <tags>主世界,地狱,刷怪塔</tags>
+        <buttons>
+            <button label="鱼塔">/warp tp GuardianFarm</button>
+            <button label="挂机点">/warp tp GuardianFarm-AFK</button>
+        </buttons>
+    </item>
+    
+    <item id="6917593dd5f82">
+        <title>犹猪兽刷怪塔</title>
+        <image>/tptool/assets/images/HoglinFarm.png</image>
+        <tags>地狱,刷怪塔</tags>
+        <buttons>
+            <button label="犹猪兽刷怪塔">/warp tp HoglinFarm</button>
+            <button label="挂机点">/warp tp HoglinFarm-AFK</button>
+        </buttons>
+    </item>
+    
+    <item id="691759c84e598">
+        <title>温泉山庄</title>
+        <image>/tptool/assets/images/HotSpringVilla.png</image>
+        <tags>主世界,地标</tags>
+        <buttons>
+            <button label="温泉山庄">/warp tp HotSpringVilla</button>
+        </buttons>
+    </item>
+    
+    <item id="69175a3b37dbe">
+        <title>为什么会变成这样呢？</title>
+        <image>/tptool/assets/images/HowDidWeGetHere.png</image>
+        <tags>主世界,地标</tags>
+        <buttons>
+            <button label="为什么会变成这样呢？">/warp tp HowDidWeGetHere</button>
+        </buttons>
+    </item>
+    
+    <item id="69175ae8a74d8">
+        <title>刷铁塔取货点</title>
+        <image>/tptool/assets/images/IronNether.png</image>
+        <tags>地狱,刷怪塔</tags>
+        <buttons>
+            <button label="刷铁塔取货点">/warp tp IronNether</button>
+        </buttons>
+    </item>
+    
+    <item id="69175b276bd87">
+        <title>地狱伪和平</title>
+        <image>/tptool/assets/images/NetherFakePeaceful.png</image>
+        <tags>地狱,伪和平</tags>
+        <buttons>
+            <button label="地狱伪和平,伪和平">/warp tp NetherFakePeaceful</button>
+        </buttons>
+    </item>
+    
+    <item id="69175ba3c0482">
+        <title>樱花岛地狱门</title>
+        <image>/tptool/assets/images/NetherPortal.png</image>
+        <tags>主世界,传送门</tags>
+        <buttons>
+            <button label="樱花岛地狱门">/warp tp NetherPortal</button>
+        </buttons>
+    </item>
+    
+    <item id="69175c1711acc">
+        <title>不详之瓶农场</title>
+        <image>/tptool/assets/images/OminousBottle.png</image>
+        <tags>主世界,刷怪塔</tags>
+        <buttons>
+            <button label="不详之瓶农场">/warp tp OminousBottle</button>
+        </buttons>
+    </item>
+    
+    <item id="69175c7a9bdd6">
+        <title>兔子公园</title>
+        <image>/tptool/assets/images/RabbitPark.png</image>
+        <tags>主世界,地标</tags>
+        <buttons>
+            <button label="兔子公园">/warp tp RabbitPark</button>
+        </buttons>
+    </item>
+    
+    <item id="69175cfb798e9">
+        <title>袭击塔</title>
+        <image>/tptool/assets/images/RaidTower.png</image>
+        <tags>主世界,刷怪塔</tags>
+        <buttons>
+            <button label="袭击塔">/warp tp RaidTower</button>
+            <button label="挂机点">/warp tp RaidTower-AFK</button>
+        </buttons>
+    </item>
+    
+    <item id="69175d4059fb3">
+        <title>樱花岛</title>
+        <image>/tptool/assets/images/bg.jpg</image>
+        <tags>主世界,地标</tags>
+        <buttons>
+            <button label="樱花岛">/warp tp SakuraIsland</button>
+        </buttons>
+    </item>
+    
+    <item id="69175dfaad4d2">
+        <title>潜影贝农场</title>
+        <image>/tptool/assets/images/ShulkerFarm.png</image>
+        <tags>末地,刷怪塔</tags>
+        <buttons>
+            <button label="潜影贝农场">/warp tp ShulkerFarm</button>
+        </buttons>
+    </item>
+    
+    <item id="69175eb99c5f2">
+        <title>史莱姆农场</title>
+        <image>/tptool/assets/images/SlimeFarm.png</image>
+        <tags>主世界,刷怪塔</tags>
+        <buttons>
+            <button label="史莱姆农场">/warp tp SlimeFarm</button>
+            <button label="挂机点">/warp tp SlimeFarmAKF</button>
+        </buttons>
+    </item>
+    
+    <item id="69175f48041af">
+        <title>甘蔗机（旧）</title>
+        <image>/tptool/assets/images/SugarCaneFarm.png</image>
+        <tags>主世界,农场</tags>
+        <buttons>
+            <button label="甘蔗机（旧）">/warp tp SugarCaneFarm</button>
+            <button label="新的在老开发区">新的在老开发区</button>
+        </buttons>
+    </item>
+    
+    <item id="69175fc68adba">
+        <title>藻泽刷怪塔</title>
+        <image>/tptool/assets/images/SwampTower.png</image>
+        <tags>主世界,刷怪塔</tags>
+        <buttons>
+            <button label="藻泽刷怪塔">/warp tp SwampTower</button>
+        </buttons>
+    </item>
+    
+    <item id="69176066ea748">
+        <title>试炼农场</title>
+        <image>/tptool/assets/images/TestFarm.png</image>
+        <tags>主世界,刷怪塔</tags>
+        <buttons>
+            <button label="试炼农场">/warp tp TestFarm</button>
+            <button label="取货点">/warp tp TestFarm-Nether</button>
+        </buttons>
+    </item>
+    
+    <item id="691760d3cb459">
+        <title>暖水海洋</title>
+        <image>/tptool/assets/images/WarmOcean.png</image>
+        <tags>主世界</tags>
+        <buttons>
+            <button label="暖水海洋">/warp tp WarmOcean</button>
+        </buttons>
+    </item>
+    
+    <item id="691761350f20f">
+        <title>女巫刷怪塔</title>
+        <image>/tptool/assets/images/WitchTower.png</image>
+        <tags>主世界,刷怪塔</tags>
+        <buttons>
+            <button label="女巫刷怪塔">/warp tp WitchTower</button>
+            <button label="挂机点">/warp tp WitchTowerTop</button>
+        </buttons>
+    </item>
+    
+    <item id="691761af5e160">
+        <title>凋灵骷髅刷怪塔</title>
+        <image>/tptool/assets/images/WitherSkeleton.png</image>
+        <tags>地狱,刷怪塔</tags>
+        <buttons>
+            <button label="凋灵骷髅刷怪塔">/warp tp WitherSkeleton</button>
+            <button label="挂机点">/warp tp WitherSkeletonTowerAFK</button>
+        </buttons>
+    </item>
+    
+    <item id="69176209f05d9">
+        <title>猪人塔（旧）</title>
+        <image>/tptool/assets/images/ZombiePigmanTower.png</image>
+        <tags>地狱,刷怪塔</tags>
+        <buttons>
+            <button label="猪人塔（旧）">/warp tp ZombiePigmanTower</button>
+            <button label="挂机点">/warp tp ZombiePigmanTowerAFK</button>
+        </buttons>
+    </item>
+    
+    <item id="6917625eedd16">
+        <title>猪人塔（新）</title>
+        <image>/tptool/assets/images/ZombiePigmanTower-NEW.png</image>
+        <tags>地狱,刷怪塔</tags>
+        <buttons>
+            <button label="猪人塔（新）">/warp tp ZombiePigmanTower-NEW</button>
+            <button label="挂机点">/warp tp ZombiePigmanTower-NEW-AFK</button>
+        </buttons>
+    </item>
+    
+    <item id="691762aae8f46">
+        <title>猪灵交易所</title>
+        <image>/tptool/assets/images/ZombifiedPiglinExchange.png</image>
+        <tags>地狱</tags>
+        <buttons>
+            <button label="猪灵交易所">/warp tp ZombifiedPiglinExchange</button>
+        </buttons>
+    </item>
+</items>
